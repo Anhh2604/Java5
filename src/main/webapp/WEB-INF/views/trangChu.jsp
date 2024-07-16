@@ -4,7 +4,7 @@
 
 <html>
 <head>
-    <title>Trang chủ - Trương Nhật Toàn PH32021</title>
+    <title>Trang chủ</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <style>
         body {
@@ -47,7 +47,7 @@
     <div class="row">
         <div class="col-md-12 blink">
             <h1 style="color: white;">Xin chào!</h1>
-            <p style="color: white;">Đây là trang chủ của Trương Nhật Toàn PH32021. Chào mừng bạn đến với website bán hàng tại quầy của tôi.</p>
+            <p style="color: white;">Chào mừng bạn đến với website bán hàng tại quầy của tôi.</p>
         </div>
 
         <div class="col-md-12 scrollable-content"> <!-- Make this div scrollable -->
